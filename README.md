@@ -1,7 +1,7 @@
 # pong-neat-ai
 
-> 🧠 A neural network learns to play Pong — trained via NEAT (NeuroEvolution of Augmenting Topologies) with Pygame.  
-> The AI competes against itself or the player, using only paddle/ball position inputs to learn strategy over time.
+🧠 A neural network learns to play Pong — trained via NEAT (NeuroEvolution of Augmenting Topologies) with Pygame.  
+The AI competes against itself or the player, using only paddle/ball position inputs to learn strategy over time.
 
 ---
 
